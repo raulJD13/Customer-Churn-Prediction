@@ -205,3 +205,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignorar la carpeta de datasets
+datasets/
+
+# Ignorar archivos de datos y modelos
+*.csv
+*.zip
+*.parquet
+*.joblib
+
+# Ignorar archivos de entorno de Colab/Python
+.ipynb_checkpoints/
+__pycache__/
