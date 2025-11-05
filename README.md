@@ -17,7 +17,7 @@
 
 This project demonstrates a complete Data Science workflow, from raw data to deployed API. Starting with 9 separate CSV files simulating a complex database, it follows a rigorous process of:
 
-- **Data integration** and cleaningd
+- **Data integration** and cleaning
 - **Feature engineering** with domain insights
 - **Model development** and rigorous debugging
 - **API deployment** with FastAPI
