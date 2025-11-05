@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-## 📋 Table of Contentsrff
+## 📋 Table of Contents
 
 - [Overview](#overview)
 - [Key Insights](#key-insights)
