@@ -1,4 +1,4 @@
-r# Customer Churn Prediction
+# Customer Churn Prediction
 
 ## 📋 Table of Contents
 
