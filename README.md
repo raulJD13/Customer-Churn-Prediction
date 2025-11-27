@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Key Insights](#key-insights)
@@ -13,7 +13,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Overview
+##  Overview
 
 This project demonstrates a complete Data Science workflow, from raw data to deployed API. Starting with 9 separate CSV files simulating a complex database, it follows a rigorous process of:
 
@@ -24,7 +24,7 @@ This project demonstrates a complete Data Science workflow, from raw data to dep
 
 The final RandomForestClassifier achieves **92% AUC** and successfully identifies customers at high risk of leaving the platform.
 
-## 💡 Key Insights
+##  Key Insights
 
 ### The Shipping Cost Discovery
 
@@ -55,7 +55,7 @@ This non-linear pattern is exactly what tree-based models excel at finding—som
 
 **What this means**: The model correctly identifies 88% of all at-risk customers while maintaining 85% precision—meaning alerts are trustworthy and actionable for marketing teams.
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 Customer-Churn-Prediction/
@@ -108,7 +108,7 @@ Engineers advanced behavioral features:
 - Validates shipping cost hypothesis
 - Saves `rf_churn_model.joblib`
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -139,7 +139,7 @@ pip install -r requirements.txt
    - Create a `datasets/` folder in the project root
    - Extract all 9 CSV files into `datasets/`
 
-## 📊 Usage
+##  Usage
 
 ### Run the Analysis Pipeline
 
@@ -237,7 +237,7 @@ Predicts churn probability for a single customer.
 }
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -251,7 +251,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset provided by [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - Built with scikit-learn, pandas, and FastAPI
