@@ -257,5 +257,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with scikit-learn, pandas, and FastAPI
 
 ---
+## Autor
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+Raúl Jiménez - Full Stack Developer & AI Enthusiast
+
+Proyecto desarrollado como parte del portafolio profesional en Machine Learning Engineering.
